@@ -1,0 +1,17 @@
+{
+  "url": "/api/v1/user/update",
+  "auth": "",
+  "items": [
+    {
+      "email": "some@one.com",
+      "name": "name of user",
+      "authIP": "192.194.29.19",
+      "password": "somePassword"
+    }, {
+      "email": "some@one.org",
+      "name": "name of user",
+      "authIP": "192.194.29.19",
+      "password": "nextRandom"
+    }
+  ]
+}
